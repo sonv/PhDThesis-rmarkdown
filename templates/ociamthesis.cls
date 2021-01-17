@@ -3,8 +3,8 @@
 % Originally by Keith A. Gillow (gillow@maths.ox.ac.uk), 1997
 % Modified by Sam Evans (sam@samuelevansresearch.org), 2007
 % Modified by John McManigle (john@oxfordechoes.com), 2015
-%
-% This version Copyright (c) 2015-2017 John McManigle
+% Modified by Son Van (van.truongson@gmail.com), 2021
+% This version Copyright (c) 2021 Son Van
 %
 % Broad permissions are granted to use, modify, and distribute this software
 % as specified in the MIT License included in this distribution's LICENSE file.
@@ -12,7 +12,7 @@
 %
 %-------------------------- identification ---------------------
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{templates/ociamthesis}[2015/04/30 Oxford thesis class]
+\ProvidesClass{templates/ociamthesis}[Carnegie Mellon thesis class]
 %-------------------------- initial code -----------------------
 
 % JEM: Defaults to one-side, but passing 'twoside' should set everything up for that
@@ -167,7 +167,7 @@
 
 
 %define title page layout
-\newcommand{\university}{University of Oxford}
+\newcommand{\university}{Carnegie Mellon University}
 
 \renewcommand{\maketitle}{%
 \begin{alwayssingle}\null
@@ -270,7 +270,7 @@
     {Thesis word count: {\@wordcount} \par}
 \else
     {{\@college} \par}
-    {University of Oxford \par}
+    {\university \par}
 \fi
 \vspace*{1ex}
     {{\it \submittedtext} \par}

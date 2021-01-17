@@ -186,8 +186,8 @@ $endfor$
 % must also un-comment and complete the following three lines:
 $if(masters-submission)$
 \masterssubmissiontrue
-\candidateno{$candidate-number$}
-\wordcount{$word-count$}
+%\candidateno{$candidate-number$}
+%\wordcount{$word-count$}
 $endif$
 
 % Uncomment the following line if your degree also includes exams (eg most masters):
@@ -230,7 +230,7 @@ $endif$
 %
 % Oxford University logo on title page
 %
-\def\crest{{\includegraphics{$university-logo$}}}
+\def\crest{{\includegraphics[scale=.5]{$university-logo$}}}
 \renewcommand{\university}{$university$}
 \renewcommand{\submittedtext}{$submitted-text$}
 
@@ -254,11 +254,11 @@ $endif$
 %%%%% ABSTRACT SEPARATE
 % This is used to create the separate, one-page abstract that you are required to hand into the Exam
 % Schools.  You can comment it out to generate a PDF for printing or whatnot.
-$if(abstractseparate)$
-\begin{abstractseparate}
-  $abstract$
-\end{abstractseparate}
-$endif$
+%$if(abstractseparate)$
+%\begin{abstractseparate}
+%  $abstract$
+%\end{abstractseparate}
+%$endif$
 
 % JEM: Pages are roman numbered from here, though page numbers are invisible until ToC.  This is in
 % keeping with most typesetting conventions.
@@ -279,31 +279,33 @@ $if(dedication)$
 $endif$
 
 %%%%% ACKNOWLEDGEMENTS -- Nothing to do here except comment out if you don't want it.
-$if(acknowledgements)$
-\begin{acknowledgements}
- 	$acknowledgements$
-\end{acknowledgements}
-$endif$
+%$if(acknowledgements)$
+%\begin{acknowledgements}
+% $acknowledgements$
+%\end{acknowledgements}
+%$endif$
 
 
 %%%%% ABSTRACT -- Nothing to do here except comment out if you don't want it.
-\begin{abstract}
-	$abstract$
-\end{abstract}
+%$if(abstract)$
+%\begin{abstract}
+%  $abstract$
+%\end{abstract}
+%$endif$
 
 %%%%% MINI TABLES
 % This lays the groundwork for per-chapter, mini tables of contents.  Comment the following line
 % (and remove \minitoc from the chapter files) if you don't want this.  Un-comment either of the
 % next two lines if you want a per-chapter list of figures or tables.
-$if(mini-toc)$
-  \dominitoc % include a mini table of contents
-$endif$
-$if(mini-lof)$
-  \dominilof  % include a mini list of figures
-$endif$
-$if(mini-lot)$
-  \dominilot  % include a mini list of tables
-$endif$
+%$if(mini-toc)$
+%  \dominitoc % include a mini table of contents
+%$endif$
+%$if(mini-lof)$
+%  \dominilof  % include a mini list of figures
+%$endif$
+%$if(mini-lot)$
+%  \dominilot  % include a mini list of tables
+%$endif$
 
 % This aligns the bottom of the text of each page.  It generally makes things look better.
 \flushbottom
@@ -326,9 +328,9 @@ $endif$
 % This example includes a list of abbreviations.  Look at text/abbreviations.tex to see how that file is
 % formatted.  The template can handle any kind of list though, so this might be a good place for a
 % glossary, etc.
-$if(abbreviations)$
-\include{$abbreviations$}
-$endif$
+%$if(abbreviations)$
+%\include{$abbreviations$}
+%$endif$
 
 % The Roman pages, like the Roman Empire, must come to its inevitable close.
 \end{romanpages}
