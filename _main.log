@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.11.5)  17 JAN 2021 14:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.11.5)  17 JAN 2021 14:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1512,7 +1512,7 @@ Package biblatex Info: ... file '_main.bbl' found.
 (./_main.bbl)
 Package biblatex Info: Reference section=0 on input line 179.
 Package biblatex Info: Reference segment=0 on input line 179.
-<templates/cmu-seal.pdf, id=36, 240.9pt x 240.9pt>
+<templates/cmu-seal.pdf, id=44, 240.9pt x 240.9pt>
 File: templates/cmu-seal.pdf Graphic file (type pdf)
 <use templates/cmu-seal.pdf>
 Package pdftex.def Info: templates/cmu-seal.pdf  used on input line 232.
@@ -1534,53 +1534,53 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `put' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-(./_main.toc)
+(./_main.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+2.
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+2.
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+12.
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+12.
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+))
 \tf@toc=\write6
 \openout6 = `_main.toc'.
 
 [3
 
 ]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-81.
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-81.
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-281.
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-281.
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 281.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 281.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 281.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 281
-.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 281
-.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 281.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1622,35 +1622,35 @@ Chapter 4.
 ]
 Chapter 5.
 
-LaTeX Warning: Empty bibliography on input line 317.
+LaTeX Warning: Empty bibliography on input line 331.
 
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the _main.maf file.
 \openout3 = `_main.maf'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 333.
 [8
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 333.
 (./_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 333.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 333.
 Package rerunfilecheck Info: File `_main.out' has not changed.
-(rerunfilecheck)             Checksum: FCAFCCFE4713985D07F2F4952A7C60A7;609.
+(rerunfilecheck)             Checksum: 212A23B211044F8768261B7BF304AE4D;736.
 Package logreq Info: Writing requests to '_main.run.xml'.
 \openout1 = `_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25951 strings out of 480906
- 433248 string characters out of 5910772
- 1205482 words of memory out of 5000000
- 40791 multiletter control sequences out of 15000+600000
- 617085 words of font info for 96 fonts, out of 8000000 for 9000
+ 25968 strings out of 480906
+ 433499 string characters out of 5910772
+ 1205573 words of memory out of 5000000
+ 40800 multiletter control sequences out of 15000+600000
+ 620265 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,11n,49p,813b,1831s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,11n,49p,813b,1838s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
 fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type
@@ -1659,10 +1659,10 @@ hare/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/a
 dobe/utopia/putb8a.pfb>
-Output written on _main.pdf (11 pages, 304557 bytes).
+Output written on _main.pdf (11 pages, 307218 bytes).
 PDF statistics:
- 335 PDF objects out of 1000 (max. 8388607)
- 249 compressed objects within 3 object streams
- 30 named destinations out of 1000 (max. 500000)
- 22598 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 348 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 23126 words of extra memory for PDF output out of 24883 (max. 10000000)
 

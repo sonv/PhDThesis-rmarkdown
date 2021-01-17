@@ -1,3 +1,4 @@
+thm:unnamed-chunk-1
 ch:Heat
 motivations
 mathematical-background
@@ -5,3 +6,20 @@ ch:Peri
 ch:CF
 ch:CF-critical
 ch:CF-metastability
+set-masters-submission-true-for-an-alternative-anonymous-title-page-with
+thesis-metadata
+bibliography-path
+pdf-layout-options
+submitting-a-masters-thesis
+correction-highlighting
+binding-margins
+position-of-page-numbers
+position-of-running-header
+section-numbering
+tables-of-content
+bibliography-style
+code-block-spacing
+linespacing
+other-stuff
+output-options
+options-for-knitting-a-single-chapter

@@ -16,6 +16,7 @@ documentclass: book
 \markboth{Preface and Acknowledgements}{}
 <!-- For PDF output, include these two LaTeX commands after unnumbered chapter headings, otherwise the mini table of contents and the running header will show the previous chapter -->
 
+
 The main message of this thesis is: 
 
    >`` Mechanics is the paradise of the mathematical sciences, because by means of it one comes to the fruits of mathematics.''

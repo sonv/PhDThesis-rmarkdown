@@ -8,7 +8,7 @@ author: Truong-Son Van
 college: Mellon College of Science
 university: Carnegie Mellon University
 university-logo: templates/cmu-seal.pdf
-submitted-text: Thesis submitted in partial fulfillment of the requirements for
+submitted-text: A dissertation submitted in partial fulfillment of the requirements for
 degree: Doctor of Philosophy in Mathematical Sciences
 degreedate: Spring 2021 
 abstract: 
