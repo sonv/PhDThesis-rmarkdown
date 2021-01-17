@@ -10,9 +10,9 @@ author: Author Name
 college: Your College
 university: University of Oxford
 university-logo: templates/beltcrest.pdf
-submitted-text: A thesis submitted for the degree of
-degree: Doctor of Philosophy
-degreedate: Michaelmas 2018
+submitted-text: Thesis submitted in partial fulfillment of the requirements for
+degree: Doctor of Philosophy in Mathematical Sciences
+degreedate: 2021 
 abstract: |
   `r paste(readLines("front-and-back-matter/_abstract.Rmd"), collapse = '\n  ')`
 acknowledgements: |
