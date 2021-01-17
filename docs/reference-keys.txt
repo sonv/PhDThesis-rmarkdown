@@ -1,9 +1,7 @@
-part-continuum-mechanics-type-equations
 ch:Heat
 motivations
 mathematical-background
 ch:Peri
-part-coagulation-fragmentation-equations
 ch:CF
 ch:CF-critical
 ch:CF-metastability
