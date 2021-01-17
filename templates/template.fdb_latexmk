@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1610889235 "/home/sonvan/Work/PhDThesis-rmarkdown/templates/template.tex" "/home/sonvan/Work/PhDThesis-rmarkdown/templates/template.pdf" "template" 1610889235
+  "/etc/texmf/web2c/texmf.cnf" 1604587157 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/sonvan/Work/PhDThesis-rmarkdown/templates/template.aux" 1610889235 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/sonvan/Work/PhDThesis-rmarkdown/templates/template.tex" 1610889234 13333 53bb04009b881ffe3e04b3a32f6765cf ""
+  "/home/sonvan/Work/PhDThesis-rmarkdown/templates/templates/ociamthesis.cls" 0 -1 0 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1596975543 38841 5237427e4d3283e7b009b6a8b45dfdcd ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1596975543 38841 5237427e4d3283e7b009b6a8b45dfdcd ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1604587383 2444914 ea0a996fc9573f597ee557497358d7fd ""
+  "template.tex" 1610889234 13333 53bb04009b881ffe3e04b3a32f6765cf ""
+  "templates/ociamthesis.cls" 0 -1 0 ""
+  (generated)
+  "/home/sonvan/Work/PhDThesis-rmarkdown/templates/template.log"
+  "/home/sonvan/Work/PhDThesis-rmarkdown/templates/template.pdf"
+  "template.log"

@@ -1,0 +1,13 @@
+---
+#########################################
+# options for knitting a single chapter #
+#########################################
+output:
+  bookdown::pdf_document2:
+    template: templates/brief_template.tex
+    citation_package: biblatex
+  bookdown::html_document2: default
+documentclass: book
+bibliography: bibliography.bib
+---
+# Well-posedness of a critical Coagulation-Fragmentation equation {#ch:CF-critical}
